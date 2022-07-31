@@ -25,6 +25,10 @@
 <img width="350px" height="200px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1084350607&layout=compact&theme=dark&hide_border=true&hide=HTML,CSS"/>
 </p>
 
+<p align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=1084350607&bg_color=0d0c0d&color=e137d6&line=5daddf&point=99eb1e&area=false&hide_border=true">
+</p>
+
 <!--
 **1084350607/1084350607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
