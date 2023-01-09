@@ -21,12 +21,12 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-666666?style=flat&logo=tailwindcss)
 
 <p>
-<img width="350px" height="200px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=1084350607&count_private=true&show_icons=true&include_all_commits=true&line_height=31&theme=merko&hide_border=true"/>
-<img width="350px" height="200px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1084350607&layout=compact&theme=dark&hide_border=true&hide=HTML,CSS"/>
+<img width="350px" height="200px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JiuranYa&count_private=true&show_icons=true&include_all_commits=true&line_height=31&theme=merko&hide_border=true"/>
+<img width="350px" height="200px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiuranYa&layout=compact&theme=dark&hide_border=true&hide=HTML,CSS"/>
 </p>
 
 <p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=1084350607&bg_color=0d0c0d&color=e137d6&line=5daddf&point=99eb1e&area=false&hide_border=true">
+ <img src="https://activity-graph.herokuapp.com/graph?username=JiuranYa&bg_color=0d0c0d&color=e137d6&line=5daddf&point=99eb1e&area=false&hide_border=true">
 </p>
 
 <!--
