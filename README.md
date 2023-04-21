@@ -1,4 +1,4 @@
-# Jiuran ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=JiuranYa&color=00cf00)
+# Jiuran
 
 
 ### 😄 I'm .. 
