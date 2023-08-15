@@ -20,10 +20,9 @@
 ![Sass](https://img.shields.io/badge/-Sass-666666?style=flat&logo=sass)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-666666?style=flat&logo=tailwindcss)
 
-<p>
-<img width="350px" height="200px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JiuranYa&count_private=true&show_icons=true&include_all_commits=true&line_height=31&theme=merko&hide_border=true"/>
-<img width="350px" height="200px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiuranYa&layout=compact&theme=dark&hide_border=true&hide=HTML,CSS"/>
-</p>
+<img align="center" style="width: 100%; height: 22vh" src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=JiuranYa"></img>
+  
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=JiuranYa&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 <!--
 **1084350607/1084350607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
