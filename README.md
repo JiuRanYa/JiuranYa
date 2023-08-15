@@ -11,6 +11,7 @@
 ### Contact
 
 - Email: siyuantong7@gmail.com
+- Discord: Tsy#7331
 
 ### Summary
 
