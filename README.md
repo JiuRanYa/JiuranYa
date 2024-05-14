@@ -4,9 +4,9 @@
 ### I'm .. 
 
 - 🌱 Front-end enginer
-- 📫 Looking for help with full-stack.
 - 🤔 Eager to make something meaningful.
 - ⚡ An all-rounded computer science enthusiast.
+- 📫 Hope to be a opensource organization team member.
 
 ### Contact
 
