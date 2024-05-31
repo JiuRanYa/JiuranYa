@@ -8,8 +8,6 @@ on:
       - main
 
 jobs:
-  permissions:
-      contents: write
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
