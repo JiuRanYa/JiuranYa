@@ -1,8 +1,8 @@
 name: Update files
 
 on:
-  release:
-    types: [published]
+  schedule:
+    - cron: '* 12 * * *'
 
 jobs:
   publish:
