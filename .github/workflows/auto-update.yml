@@ -2,7 +2,10 @@ name: Update files
 
 on:
   schedule:
-    - cron: '* 12 * * *'
+    - cron: '* 11 * * *'
+  push:
+    branches:
+      - main
 
 jobs:
   publish:
