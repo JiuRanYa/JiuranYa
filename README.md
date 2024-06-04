@@ -12,7 +12,3 @@
 
 - Email: siyuantong7@gmail.com
 - Discord: Tsy#7331
-
-### Summary
-
-![img](./profile-3d-contrib/profile-green-animate.svg)
