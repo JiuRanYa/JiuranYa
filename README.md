@@ -12,6 +12,10 @@
 - 🤝 Looking forward to contributing to open source projects
 - ⚡ Tech enthusiast exploring the latest in web development
 
+### Projects
+
+- [PoE Atlas Tree Planner](https://poeatlasplanner.com/) — plan and share Atlas passives for Path of Exile 1. [Explore Big Ducks’ 37-point starter tree](https://poeatlasplanner.com/community/big-ducks-37).
+
 ### 🛠️ Tech Stack
 
 - Frontend: React, Vue, TypeScript，NextJS
